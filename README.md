@@ -13,20 +13,22 @@
 - ➡️ 一键跳转下一题
 
 ## 安装方法
-
 1. 安装 Tampermonkey 浏览器扩展
 
-1.1. 打开 Tampermonkey
+ 打开 Tampermonkey
 浏览器右上角点 Tampermonkey 图标 → 「创建新脚本」
 
-1.2. 粘贴代码
-把弹出来的默认代码全部删掉，然后把我给你的完整代码（从 // ==UserScript== 到最后一行的 })();）全部粘贴进去
+ 粘贴代码
+把弹出来的默认代码全部删掉，然后把完整代码（从 // ==UserScript== 到最后一行的 })();）全部粘贴进去
 
-1.3 保存
+ 保存
 按 Ctrl + S（Mac 按 Cmd + S），看到提示「脚本已安装」就行了
 
-1.4 点击管理扩展--找到篡改猴--点击详情--把下面三个没启动的都要启动
-3. 点击 [此处安装脚本](https://github.com/liuzicheng321-afk/-ai-/blob/main/chaoxing-ai-helper.user.js)（将链接中的用户名和仓库名改为你自己的）
+ 点击管理扩展--找到篡改猴--点击详情--把下面三个没启动的都要启动
+
+
+
+3. 点击 [此处打开相关仓库](https://github.com/liuzicheng321-afk/-ai-/blob/main/chaoxing-ai-helper.user.js)
 4. 打开超星课程页面，右下角出现 AI 助手面板
 5. 点击"配置 API Key"，输入 DeepSeek API Key
 
