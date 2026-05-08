@@ -15,7 +15,7 @@
 ## 安装方法
 
 1. 安装 Tampermonkey 浏览器扩展
-2. 点击 [此处安装脚本](https://raw.githubusercontent.com/你的用户名/仓库名/main/脚本文件名.user.js)（将链接中的用户名和仓库名改为你自己的）
+2. 点击 [此处安装脚本](https://github.com/liuzicheng321-afk/-ai-/blob/main/chaoxing-ai-helper.user.js)（将链接中的用户名和仓库名改为你自己的）
 3. 打开超星课程页面，右下角出现 AI 助手面板
 4. 点击"配置 API Key"，输入 DeepSeek API Key
 
