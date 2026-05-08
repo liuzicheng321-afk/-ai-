@@ -36,15 +36,24 @@
 - 📖 建议用于学习辅助，遵守学术诚信
 
 ## 许可证
+MIT License
+
 Copyright (c) 2026 liuzicheng321-afk
 
-本脚本仅供个人学习使用，严禁任何形式的传播、转载、修改后重新发布或商业用途。
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-未经作者书面许可，禁止将该脚本或其任何部分：
-1. 以任何形式重新发布（包括但不限于复制、上传到其他网站）
-2. 用于任何商业目的（包括但不限于出售、出租、提供付费服务）
-3. 修改后以任何名义再次发布
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-使用者仅可在自己的设备上安装使用，不得分享给他人。
-
-如需获得授权，请联系作者。
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
